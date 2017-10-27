@@ -1,0 +1,7 @@
+#onesearch{
+	background: red;
+	color: blue;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
